@@ -1,8 +1,5 @@
 ; *****************************************************************
-;  Name: <Cruz Luna>
-;  NSHE ID: <2001582775>
-;  Section: <section 1001>
-;  Assignment: 1
+
 ;  Description: Simple assembly example
 
 
