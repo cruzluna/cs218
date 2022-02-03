@@ -1,7 +1,5 @@
-;  Name: <Cruz Luna>
-;  NSHE ID: <2001582775>
-;  Section: <section 1001>
-;  Assignment: <assignment number 2>
+
+;  Assignment: <assignment number 4>
 ;  Description: <Program to find min, median, max, sum, & integer average>
 
 
