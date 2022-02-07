@@ -1,6 +1,4 @@
-;  Name: <Cruz Luna>
-;  NSHE ID: <2001582775>
-;  Section: <section 1001>
+
 ;  Assignment: <assignment number 5>
 ;  Description: <Calculate geometric info>
 
