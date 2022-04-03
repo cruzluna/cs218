@@ -1,7 +1,4 @@
 ;  CS 218 - Assignment #11
-;  Name: <Cruz Luna>
-;  NSHE ID: <2001582775>
-;  Section: <1002>
 ;  Assignment: 11
 ;  Description: < file stuff>
 ;  Provided Template
