@@ -1,0 +1,64 @@
+with Spin Lock:
+##############################################
+
+-------------------
+Timed Test (1 thread)
+
+real	0m6.324s
+user	0m6.267s
+sys	0m0.016s
+
+-------------------
+Timed Test (2 thread)
+
+real	0m3.116s
+user	0m6.197s
+sys	0m0.004s
+
+-------------------
+Timed Test (3 thread)
+
+real	0m2.370s
+user	0m6.540s
+sys	0m0.047s
+
+-------------------
+Timed Test (4 thread)
+
+real	0m2.606s
+user	0m8.634s
+sys	0m0.059s
+
+
+Without spin lock:
+##############################################
+
+-------------------
+Timed Test (1 thread)
+
+real	0m7.250s
+user	0m7.139s
+sys	0m0.028s
+
+-------------------
+Timed Test (2 thread)
+
+real	0m3.912s
+user	0m7.703s
+sys	0m0.016s
+
+-------------------
+Timed Test (3 thread)
+
+real	0m3.173s
+user	0m9.300s
+sys	0m0.012s
+
+-------------------
+Timed Test (4 thread)
+
+real	0m2.124s
+user	0m7.814s
+sys	0m0.032s
+
+
