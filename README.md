@@ -1,2 +1,2 @@
 # unlvCS
-So far only CS 218. Will add CS 135 & CS 202 assignments in the future. 
+Neat CS 218 Assignments completed. This repo demonstrates my working knowledge of x86 & MIPS. 
