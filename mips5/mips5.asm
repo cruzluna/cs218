@@ -1,9 +1,7 @@
 ###########################################################################
-#  Name: Cruz L.
-#  NSHE ID: 2001582775
-#  Section: 1002
+
 #  Assignment: MIPS #5
-#  Description:  Provide template
+#  Description:  Recursion
 
 #  CS 218, MIPS Assignment #5
 
