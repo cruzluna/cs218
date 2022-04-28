@@ -1,9 +1,3 @@
-;  Name: <Cruz Luna>
-;  NSHE ID: <2001582775>
-;  Section: <section 1001>
-;  Assignment: <assignment number 2>
-;  Description: <Program to find min, median, max, sum, & integer average>
-
 
 ; *****************************************************************
 ;  Static Data Declarations (initialized)
