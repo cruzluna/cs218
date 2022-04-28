@@ -1,7 +1,4 @@
 ; *****************************************************************
-;  Name: <Cruz Luna>
-;  NSHE ID: <2001582775>
-;  Section: <section 1002>
 ;  Assignment: 7
 ;  Description:	Simple assembly language program to sort
 ;		a list of integers using the provided gnome
