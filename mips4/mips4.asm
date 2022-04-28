@@ -1,8 +1,6 @@
 ###########################################################################
-#  Name: Cruz Luna
-#  NSHE ID: 2001582775
-#  Section: 1002
-#  Assignment: MIPS #3
+
+#  Assignment: MIPS #4
 #  Description: multi-dimensional array
 #  CS 218
 #  MIPS Assignment #4
