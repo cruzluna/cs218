@@ -1,7 +1,4 @@
 ###########################################################################
-#  Name: Cruz Luna
-#  NSHE ID: 2001582775
-#  Section: 1002
 #  Assignment: MIPS #2
 #  Description: easy mips asst 
 
